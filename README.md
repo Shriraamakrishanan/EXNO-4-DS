@@ -1,7 +1,5 @@
 # EXNO:4-DS
 
-# NAME: V THIRUMALAI (212223040229)
-# DEPT: CSE
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
